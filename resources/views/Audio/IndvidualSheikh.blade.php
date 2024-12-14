@@ -311,7 +311,7 @@
                 </div>
 
                 <div class="col-lg-3 col-12">
-                    <p class="copyright-text mb-0">Copyright © 2023 Aqeedat Assalaf Media</p>
+                    <p class="copyright-text mb-0">Copyright © 2025 Aqeedat Assalaf Media</p>
                 </div>
             </div>
         </div>

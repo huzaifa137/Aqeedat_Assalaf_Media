@@ -38,7 +38,7 @@
                                     <div class="center-content">
                                         <h2 class="section-title">SERVICE WE ARE OFFERING</h2>
                                         <span class="underline center"></span>
-                                        <p class="lead" style="color: #3686ff">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
+                                        <p class="lead" style="color: #0dcf31">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
                                         <div class="clearfix"></div>
                                     </div>
                                     <div class="clearfix"></div>

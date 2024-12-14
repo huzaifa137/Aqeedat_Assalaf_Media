@@ -47,7 +47,7 @@
                                                     </div>
                                                     <h2 class="entry-title">Adhkar Name : {{$data->dua_name}}</h2>
                                                     <div class="entry-meta">
-                                                        <span><i class="fa fa-book"></i> <a style="font-weight: bold;color: #3686ff;">Recite {{$data->number_in_words}}</a></span>x{{$data->number_in_figures}}                                                    </div>
+                                                        <span><i class="fa fa-book"></i> <a style="font-weight: bold;color: #0dcf31;">Recite {{$data->number_in_words}}</a></span>x{{$data->number_in_figures}}                                                    </div>
                                                 </header>
                                                 <div class="post-thumbnail">
                                                     

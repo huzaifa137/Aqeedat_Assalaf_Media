@@ -52,7 +52,7 @@
                                                     </div>
                                                     <h3 class="entry-title"><a href="{{'adhkar-details/'.$info->id}}">{{$info->dua_name}}</a></h3>
                                                     <div class="entry-meta">
-                                                        <span><i class="fa fa-book"></i> <a href="javascript:void(0)" style="color: #3686ff">Recite {{$info->number_in_words}}</a></span>x{{$info->number_in_figures}}
+                                                        <span><i class="fa fa-book"></i> <a href="javascript:void(0)" style="color: #0dcf31">Recite {{$info->number_in_words}}</a></span>x{{$info->number_in_figures}}
                                                     </div>
                                                 </header>
                                                 <div class="entry-content">
